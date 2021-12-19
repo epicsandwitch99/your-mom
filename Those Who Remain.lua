@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/canerom/Roblox/main/Games/Those%20Who%20Remain.lua'))()
